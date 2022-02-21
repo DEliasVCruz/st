@@ -595,9 +595,8 @@ static char ascii_printable[] =
  *    \_/   \_/
  */
 // Available styles
-#define UNDERCURL_CURLY 0
-#define UNDERCURL_SPIKY 1
+#define UNDERCURL_CURLY 1
+#define UNDERCURL_SPIKY 0
 #define UNDERCURL_CAPPED 2
 // Active style
 #define UNDERCURL_STYLE UNDERCURL_SPIKY
->>>>>>>
